@@ -1,0 +1,23 @@
+Below are the products with their details in My AIRecon store:
+
+
+                                                                      
+product{
+    id: AVphBRHOilAPnD_x0OrE,
+    name: Simon Fischer,
+    categories: [Grocery & Gourmet Food,Food,Grocery],
+    ingredients: Dried Prunes,Water,Corn Syrup,Sugar,Pectin.
+}
+
+                                                                                       
+id: AVpfNFy1LJeJML434ma2   name:McCormick                 categories:Grocery & Gourmet Food,Food,Grocery  ingredients:  Maltodextrin,Vinegar,Extractives of Paprika,and Natural Flavor (Including Smoke)
+
+id: AVpgT49VLJeJML43MJEz   name:Jolly Time                categories:Grocery & Gourmet Food,Grocery        ingredients: Salt, Yellow 5 Lake, Tricalcium Phosphate And Artificial Butter Flavor
+
+id: AVphYgnzLJeJML43aPp2   name:Ziyad                     categories:Grocery & Gourmet Food,grocery        ingredients: Mechanically hulled seasame seeds.Allergy Information: Packed in a facility that processes whe
+
+id: AVpiS0bOLJeJML43kRsh   name:Fla-Vor-Ice               categories:Grocery & Gourmet Food,grocery        ingredients: FALSE
+id: AVpfiMykilAPnD_xdedK   name:Hero                      categories:Food,Other Grocery,Grocery            ingredients: Red Raspberries,Sugar,Glucose Syrup,Citric Acid,Pectin. 
+                                                                                     
+id:AVpgPmxs1cnluZ0-ypMt   name:Simply Asia               categories:Grocery & Gourmet Food,Grocery        ingredients: Wheat concentrate,salt,hydrolyzed soy protein,tomato paste,modified corn starch,orange juice concent
+id: AVphcTTBLJeJML43a9fO   name:EMERIL S                 categories: Food,Fresh Food,Grocery               ingredients: Wheat Flour,Soybean Oil,Salt,Dehydrated Garlic,Sugar,Onion Powder,Garlic Powder,Yeast,Spi
